@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>Monterey sddm theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1567573</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>136024</downloads>
+  <installedfile>/tmp/Monterey-dark.tar.xz</installedfile>
+  <id>1567573</id>
+  <releasedate>2021-10-09</releasedate>
+  <summary>Monterey theme for KDE Plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1567573/36ca642007321c9d6bb029f5925e4e7b62718b27617b60003305f9ab3100ac35c465.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1567573/36ca642007321c9d6bb029f5925e4e7b62718b27617b60003305f9ab3100ac35c465.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzM3ODgwNTciLCJvIjoiMSIsInMiOiJjZTJjNmUyOTFkMjEzYjZkZTgyNWVlZDQzYTdhZGJlNTEzMzk5MTUwZjBmYjZjNjRjNzhlMWYyNGYzMzQ4M2U2MjU2Y2E2OGU1ZTMyOTg2OWFlZjc3ZGMwNmRjNTI2ZmI4ZTBlY2U3MzY4ODE1ZTFiOWE1Y2IyMGI4YzFmMjgzZCIsInQiOjE3MDgzNzE2MzMsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4xOTcuNTcuMTAifQ.OQ4GPvf27EpwtsC44NAnymRYr9zfUUbbbVtt2SvL9hc/Monterey-dark.tar.xz</payload>
+  <tags>gplv3,original-product,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

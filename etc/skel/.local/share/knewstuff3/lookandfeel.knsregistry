@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Monterey Plasma Dark Theme - Fixed</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>siriusdev</author>
+  <homepage>https://store.kde.org/p/2032480</homepage>
+  <licence></licence>
+  <version>v1.0.1</version>
+  <rating>50</rating>
+  <downloads>144838</downloads>
+  <installedfile>/home/erik/.local/share/plasma/look-and-feel/com.github.vinceliuice.Monterey-dark</installedfile>
+  <id>2032480</id>
+  <releasedate>2023-05-09</releasedate>
+  <summary>Currently Monterey Dark by vince Liuice available for download in KDE is not working properly as it is not up to date, when the problem is fixed I will remove this one, the intention is just to facilitate the installation without the need to correct the problem every time I install.&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/71/71/29/2032480/bf3dbb7b05cdcf1f46d94ff13104cc22609bfd939919c1097ad5328dc0aa3a4a70ad.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/71/71/29/2032480/bf3dbb7b05cdcf1f46d94ff13104cc22609bfd939919c1097ad5328dc0aa3a4a70ad.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODM2MjYyMTMiLCJvIjoiMSIsInMiOiJhNjg4NDNkZWI1Yzg1YTQzY2RkMzdjOTM3NjE0MmU4YzgzM2FkYjdhNTE3MTM0NWU5NGY0MjliZWM0OWRmZTg2OTYxODMyYzBmY2ZlZjBlNTBmZjIzZDI1YjRkYzE5OWQ0YTJiNzlmM2RjNDAwZWEwODgyNzM5ZGY3Mjk5NzE4YyIsInQiOjE3MDgzNzE1OTQsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4xOTcuNTcuMTAifQ.VmcTzoycTH4QyXkyvxamIC7kYc7Cun_3kYqArUV-jPQ/com.github.vinceliuice.Monterey-dark.tar.gz</payload>
+  <tags>plasma,efi,gplv3,theme,unix,linux,look-and-feel,kde,lgplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

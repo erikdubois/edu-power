@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Monterey color scheme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1567570</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>88636</downloads>
+  <installedfile>/home/erik/.local/share/color-schemes/Monterey.colors</installedfile>
+  <installedfile>/home/erik/.local/share/color-schemes/MontereyDark.colors</installedfile>
+  <id>1567570</id>
+  <releasedate>2021-08-02</releasedate>
+  <summary>Monterey theme for KDE Plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1567570/d55ff0c0fc383505f22b7ae0f2db01c194f62b4a7c37715ce31d138b9fed48d4382a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1567570/d55ff0c0fc383505f22b7ae0f2db01c194f62b4a7c37715ce31d138b9fed48d4382a.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjc4ODgzNzQiLCJvIjoiMSIsInMiOiI0MGMzODQ1NDMzYjI1Y2NiMTk1NmFkMGM1NmVlMWFiNTUzYTNkZDg2ODM3NDQxNmZiY2MzZTMxZGVkMWVmMzI0NmMyNmFiMjVkZGRhODdkMGNiYzU1OTdhZmFiYWEwZWVmNzZjMzNhYjcyMzY3ZmRkNWI3OWRlMmY4YjRiMjcyOSIsInQiOjE3MDgzNzE1OTYsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4xOTcuNTcuMTAifQ.mvYUtJ1wl5OUEBg1pJg-hSiec2LiuzKBaKCUTbhFilo/color-schemes.tar.xz</payload>
+  <tags>original-product,plasma,kde,linux,unix,theme,gplv3,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

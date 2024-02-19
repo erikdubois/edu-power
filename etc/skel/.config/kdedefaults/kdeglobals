@@ -1,8 +1,8 @@
 [General]
-ColorScheme=ArcDark
+ColorScheme=MontereyDark
 
 [Icons]
-Theme=Surfn-Plasma-Dark-Tela
+Theme=WhiteSur-dark
 
 [KDE]
 widgetStyle=kvantum

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>WhiteSur cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1411743</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>765519</downloads>
+  <installedfile>/home/erik/.icons/WhiteSur-cursors/*</installedfile>
+  <id>1411743</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>WhiteSur cursors</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMTk1NTAiLCJvIjoiMSIsInMiOiJjZTE2YTRjZTY3YjNlMjhkY2E0MWJhMWQzYzcwYzAyNTQwMzIxZjE5YTA5YjZlODcxNDc3NzZhODNmZWRhMmUzZWRiMzgxZWMzNGU3YjY4NTk1N2E1N2EzMDhiZDk2MGNjZTBjZjgyZThkOGQ3YzM0ODk1M2JmNDJiMDRkYzg2NSIsInQiOjE3MDgzNzE2NTYsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4xOTcuNTcuMTAifQ.98u-OO2Tvo7-rQKRUq8KPOpvC2_qz8TiTX1TEKFnUxc/WhiteSur-cursors.tar.xz</payload>
+  <tags>original-product,linux,gplv3,cursor,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
