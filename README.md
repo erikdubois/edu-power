@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxw.png">
+ <img src="https://github.com/erikdubois/arcolinux-nemesis/blob/master/Personal/settings/arcolinuxws.png">
   <br />
    Power - rising example for Plasma
 </h1>
