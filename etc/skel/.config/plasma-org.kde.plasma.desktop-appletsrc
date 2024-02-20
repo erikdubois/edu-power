@@ -103,15 +103,24 @@ immutability=1
 [Containments][44][Applets][61][Configuration][Configuration]
 PreloadWeight=37
 
+[Containments][44][Applets][67]
+immutability=1
+plugin=org.kde.plasma.digitalclock
+
+[Containments][44][Applets][67][Configuration]
+PreloadWeight=55
+popupHeight=550
+popupWidth=484
+
 [Containments][44][ConfigDialog]
-DialogHeight=74
+DialogHeight=93
 DialogWidth=1920
 
 [Containments][44][Configuration]
 PreloadWeight=0
 
 [Containments][44][General]
-AppletOrder=45;46;47;48;61
+AppletOrder=45;46;47;67;48;61
 
 [Containments][49]
 activityId=
@@ -181,10 +190,11 @@ plugin=org.kde.plasma.battery
 extraItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardlayout,org.kde.kscreen,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.manage-inputmethod
 knownItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardlayout,org.kde.kscreen,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.manage-inputmethod
 
-[Containments][64]
+[Containments][63]
 ItemGeometries-1920x1080=
+ItemGeometries-941x952=
 ItemGeometriesHorizontal=
-activityId=99a1c947-cc0f-4f9e-9f97-3a32a16462f5
+activityId=f320f8e1-59cd-4832-9086-2e70ba8f3438
 formfactor=0
 immutability=1
 lastScreen=0
@@ -192,12 +202,18 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.slideshow
 
-[Containments][64][ConfigDialog]
+[Containments][63][ConfigDialog]
 DialogHeight=660
 DialogWidth=880
 
-[Containments][64][Wallpaper][org.kde.slideshow][General]
-SlidePaths=/home/liveuser/.local/share/wallpapers/,/usr/share/wallpapers/
+[Containments][63][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=515
+ToolBoxButtonY=30
+
+[Containments][63][Wallpaper][org.kde.slideshow][General]
+Image=file:///usr/share/wallpapers/Kokkini/
+SlidePaths=/home/erik/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [ScreenMapping]
 itemsOnDisabledScreens=
