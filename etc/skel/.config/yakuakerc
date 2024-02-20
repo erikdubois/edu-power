@@ -1,5 +1,8 @@
 [Appearance]
 Skin=arc-dark
 
+[Desktop Entry]
+DefaultProfile=Power.profile
+
 [Dialogs]
 FirstRun=false

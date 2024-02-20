@@ -1,7 +1,7 @@
 MenuBar=Disabled
 
 [Desktop Entry]
-DefaultProfile=arcolinux.profile
+DefaultProfile=Power.profile
 
 [Favorite Profiles]
 Favorites=
@@ -23,6 +23,7 @@ ShowMenuBarByDefault=false
 1920x1080 screen: YPosition=247
 Height 1080=650
 MenuBar=Disabled
+RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAT8A////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAAA7AD///8AAALaAAACWgAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAFD/////AAAAAAAAAAA=
 StatusBar=Disabled
 ToolBarsMovable=Disabled
