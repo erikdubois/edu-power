@@ -3,6 +3,7 @@ _k_friendly_name=Activity Manager
 switch-to-activity-1fe86127-d67b-4797-816f-87c2194fc798=none,none,Switch to activity "Default"
 switch-to-activity-702edd4c-953e-4343-b9b7-37b80f029431=none,none,Switch to activity "Default"
 switch-to-activity-799fea17-cff7-46d0-9aac-8d71c6bf41fc=none,none,Switch to activity "Default"
+switch-to-activity-f8e7c7dc-858b-4336-879a-6024ee771ad5=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to Belgian=none,none,Switch keyboard layout to Belgian
@@ -249,25 +250,25 @@ view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [lattedock]
 _k_friendly_name=Latte Dock
-activate entry 1=,Meta+1,Activate Entry 1
-activate entry 10=,Meta+0,Activate Entry 10
+activate entry 1=none,Meta+1,Activate Entry 1
+activate entry 10=none,Meta+0,Activate Entry 10
 activate entry 11=Meta+Z,Meta+Z,Activate Entry 11
-activate entry 12=,Meta+X,Activate Entry 12
-activate entry 13=,Meta+C,Activate Entry 13
+activate entry 12=none,Meta+X,Activate Entry 12
+activate entry 13=none,Meta+C,Activate Entry 13
 activate entry 14=Meta+V,Meta+V,Activate Entry 14
 activate entry 15=Meta+B,Meta+B,Activate Entry 15
 activate entry 16=Meta+N,Meta+N,Activate Entry 16
 activate entry 17=Meta+M,Meta+M,Activate Entry 17
 activate entry 18=Meta+\\,,Meta+\\,,Activate Entry 18
-activate entry 19=,Meta+.,Activate Entry 19
-activate entry 2=,Meta+2,Activate Entry 2
-activate entry 3=,Meta+3,Activate Entry 3
-activate entry 4=,Meta+4,Activate Entry 4
-activate entry 5=,Meta+5,Activate Entry 5
-activate entry 6=,Meta+6,Activate Entry 6
-activate entry 7=,Meta+7,Activate Entry 7
-activate entry 8=,Meta+8,Activate Entry 8
-activate entry 9=,Meta+9,Activate Entry 9
+activate entry 19=none,Meta+.,Activate Entry 19
+activate entry 2=none,Meta+2,Activate Entry 2
+activate entry 3=none,Meta+3,Activate Entry 3
+activate entry 4=none,Meta+4,Activate Entry 4
+activate entry 5=none,Meta+5,Activate Entry 5
+activate entry 6=none,Meta+6,Activate Entry 6
+activate entry 7=none,Meta+7,Activate Entry 7
+activate entry 8=none,Meta+8,Activate Entry 8
+activate entry 9=none,Meta+9,Activate Entry 9
 new instance for entry 1=Meta+Ctrl+1,Meta+Ctrl+1,New Instance for Entry 1
 new instance for entry 10=Meta+Ctrl+0,Meta+Ctrl+0,New Instance for Entry 10
 new instance for entry 11=Meta+Ctrl+Z,Meta+Ctrl+Z,New Instance for Entry 11
@@ -287,7 +288,7 @@ new instance for entry 6=Meta+Ctrl+6,Meta+Ctrl+6,New Instance for Entry 6
 new instance for entry 7=Meta+Ctrl+7,Meta+Ctrl+7,New Instance for Entry 7
 new instance for entry 8=Meta+Ctrl+8,Meta+Ctrl+8,New Instance for Entry 8
 new instance for entry 9=Meta+Ctrl+9,Meta+Ctrl+9,New Instance for Entry 9
-show latte global settings=,Meta+W,Show Latte Global Settings
+show latte global settings=none,Meta+W,Show Latte Global Settings
 show latte view=Meta+`,Meta+`,Show Latte Dock/Panel
 show view settings=Meta+A,Meta+A,Cycle Through Dock/Panel Settings Windows
 

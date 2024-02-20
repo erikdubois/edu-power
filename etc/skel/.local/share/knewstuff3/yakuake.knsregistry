@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="184">
+  <name>WhiteSur</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>interstellar1</author>
+  <homepage>https://store.kde.org/p/2029557</homepage>
+  <licence></licence>
+  <version>1</version>
+  <rating>50</rating>
+  <downloads>1336</downloads>
+  <installedfile>/home/erik/.local/share/yakuake/kns_skins/WhiteSur/*</installedfile>
+  <id>2029557</id>
+  <releasedate>2023-05-08</releasedate>
+  <summary>A macOS BigSur-like theme for the Yakuake terminal&lt;br />
+&lt;br />
+In order for this theme to work properly, make sure to set the background color to white and the background opacity to 100% in appearance settings, and check the box next to "Use skin translucency if supported"&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/69/65/54/2029557/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/69/65/54/2029557/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODMwNjcxMzkiLCJvIjoiMSIsInMiOiI2MTFiMjY5MmY1ZDZiYzQzNDk1ZjY5OGYyNTIwNGE4MjgxYmUxZmE1Y2U1MzJkNWQyNzcxODRkYTc0ZmQ3NjBmNzY4NDY4YWMyZTA1Y2RkMGEyNDQ1YTM1ZmE3NmQ0MTMyZDJkZDI3OTNjNTNmZGU2YTI1ZGYxYWQxZDhmNzJhYSIsInQiOjE3MDg0MjUyNjMsInN0ZnAiOm51bGwsInN0aXAiOiI4NC4xOTcuNTcuMTAifQ.goKYOl5XDWbZFLDlIB11QLJhjW9k933SA4C4g7LW8mU/WhiteSur.tar.gz</payload>
+  <tags>yakuake,whitesur,macos,gplv3,addon,original-product,big-sur</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
