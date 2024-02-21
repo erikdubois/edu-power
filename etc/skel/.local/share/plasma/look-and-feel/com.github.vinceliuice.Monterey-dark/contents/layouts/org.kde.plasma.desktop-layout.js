@@ -26,9 +26,6 @@ var layout = {
                     "ToolBoxButtonY": "983",
                     "sortMode": "-1"
                 },
-                "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/vince/Pictures/WhiteSur.png"
-                }
             },
             "wallpaperPlugin": "org.kde.image"
         }

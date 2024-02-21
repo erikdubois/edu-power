@@ -149,6 +149,9 @@ shadeSortColumn=true
 smallestReadableFont=Noto Sans,9,-1,5,50,0,0,0,0,0
 toolBarFont=Noto Sans,11,-1,5,50,0,0,0,0,0
 
+[Icons]
+Theme=Surfn-Plasma-Dark-Tela
+
 [KDE]
 ColorScheme=Breeze
 LookAndFeelPackage=com.github.vinceliuice.Monterey-dark
@@ -156,7 +159,7 @@ ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=false
 contrast=4
-widgetStyle=kvantum
+widgetStyle=kvantum-dark
 
 [KFileDialog Settings]
 Allow Expansion=false
