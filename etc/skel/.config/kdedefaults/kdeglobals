@@ -2,7 +2,7 @@
 ColorScheme=MontereyDark
 
 [Icons]
-Theme=WhiteSur-dark
+Theme=Surfn-Plasma-Dark-Tela
 
 [KDE]
-widgetStyle=kvantum
+widgetStyle=kvantum-dark

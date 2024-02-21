@@ -1,11 +1,11 @@
 [kcminputrc][Mouse]
-cursorTheme=WhiteSur-cursors
+cursorTheme=Breeze_Snow
 
 [kdeglobals][General]
 ColorScheme=MontereyDark
 
 [kdeglobals][Icons]
-Theme=WhiteSur-dark
+Theme=Surfn-Plasma-Dark-Tela
 
 [kdeglobals][KDE]
 widgetStyle=kvantum-dark
