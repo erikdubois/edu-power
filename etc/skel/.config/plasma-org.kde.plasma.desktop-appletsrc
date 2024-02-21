@@ -190,11 +190,11 @@ plugin=org.kde.plasma.battery
 extraItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardlayout,org.kde.kscreen,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.manage-inputmethod
 knownItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.keyboardlayout,org.kde.kscreen,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.nightcolorcontrol,org.kde.plasma.networkmanagement,org.kde.plasma.vault,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.manage-inputmethod
 
-[Containments][63]
+[Containments][68]
 ItemGeometries-1920x1080=
 ItemGeometries-941x952=
 ItemGeometriesHorizontal=
-activityId=f320f8e1-59cd-4832-9086-2e70ba8f3438
+activityId=18bfad75-8943-4349-adef-f9f3bf3692cd
 formfactor=0
 immutability=1
 lastScreen=0
@@ -202,18 +202,13 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.slideshow
 
-[Containments][63][ConfigDialog]
+[Containments][68][ConfigDialog]
 DialogHeight=660
 DialogWidth=880
 
-[Containments][63][General]
-ToolBoxButtonState=topcenter
-ToolBoxButtonX=515
-ToolBoxButtonY=30
-
-[Containments][63][Wallpaper][org.kde.slideshow][General]
-Image=file:///usr/share/wallpapers/Kokkini/
-SlidePaths=/home/erik/.local/share/wallpapers/,/usr/share/wallpapers/
+[Containments][68][Wallpaper][org.kde.slideshow][General]
+Image=file:///usr/share/wallpapers/PastelHills/
+SlidePaths=/usr/share/wallpapers/
 
 [ScreenMapping]
 itemsOnDisabledScreens=
