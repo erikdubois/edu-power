@@ -207,7 +207,6 @@ DialogHeight=660
 DialogWidth=880
 
 [Containments][68][Wallpaper][org.kde.slideshow][General]
-Image=file:///usr/share/wallpapers/PastelHills/
 SlidePaths=/usr/share/wallpapers/
 
 [ScreenMapping]

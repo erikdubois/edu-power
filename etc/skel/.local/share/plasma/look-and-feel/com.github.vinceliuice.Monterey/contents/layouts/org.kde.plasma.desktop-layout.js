@@ -11,7 +11,7 @@ var layout = {
                     "formfactor": "0",
                     "immutability": "1",
                     "lastScreen": "0",
-                    "wallpaperplugin": "org.kde.image"
+                    "wallpaperplugin": "org.kde.slideshow"
                 },
                 "/ConfigDialog": {
                     "DialogHeight": "540",
@@ -30,7 +30,7 @@ var layout = {
                     "Image": "file:///home/vince/Pictures/WhiteSur.png"
                 }
             },
-            "wallpaperPlugin": "org.kde.image"
+            "wallpaperPlugin": "org.kde.slideshow"
         }
     ],
     "panels": [
@@ -129,7 +129,7 @@ var layout = {
                     "formfactor": "2",
                     "immutability": "1",
                     "lastScreen": "0",
-                    "wallpaperplugin": "org.kde.image"
+                    "wallpaperplugin": "org.kde.slideshow"
                 },
                 "/ConfigDialog": {
                     "DialogHeight": "74",
